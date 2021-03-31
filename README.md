@@ -1,5 +1,6 @@
 # Bot sencillo de Telegram usando lenguaje Go.
 
+
 🚨🚨🚨 Atención, Achtung, Cuidadín: Todos los issues se tienen que cerrar con un commit 🚨🚨🚨
 
 ## Problema
@@ -47,3 +48,4 @@ aplicación (alto nivel)
 * @igponce
 * @ILoveYouDrZaius
 * @murcian0
+
